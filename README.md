@@ -6,15 +6,20 @@ I am a universety_student with a profound interest in technology and a dedicatio
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+  - [Hello World!](https://github.com/)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|      | <a href="https://google.com">Detection Lab</a>|
-|  | <a href="https://google.com">Detection Lab</a>|
-|          | |
+<h2> Certification:</h2>
+
+- <b>D</b>
 
 
+## Certifications, (studuing to get them in the future )
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div/>
 ## Tools
 
 ### Network
@@ -23,13 +28,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
+<h2> 🤳 Connect with me:</h2>
 
-## Certifications, (studuing to get them in the future )
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-</div>
-
-## Projects
-- 
+[linkedin]: www.linkedin.com/in/bryan-hernandez-upegui-05277a210

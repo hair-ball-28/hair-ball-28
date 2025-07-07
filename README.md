@@ -16,11 +16,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ---
 
-### 📺 YouTube Videos
-- [Video Title or Lab Tutorial](#)
-
----
-
 ### 🤝 Connect with me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=white)](https://youtube.com/yourchannel) 

@@ -1,12 +1,10 @@
 # Hello, I'm Bryan
 I am a universety_student with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+## 🛡️Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-### 🛡️ Cybersecurity Projects:
+###  👨‍💻 Cybersecurity Projects:
 - [Project 1 Name](#)  
 - [Project 2 Name](#)
 

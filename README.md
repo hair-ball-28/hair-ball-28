@@ -5,15 +5,13 @@ I am a universety_student with a profound interest in technology and a dedicatio
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ###  👨‍💻 Cybersecurity Projects:
-- [Project 1 Name](#)  
-- [Project 2 Name](#)
+- [JavaChatApp_](https://github.com/hair-ball-28/JavaChatApp_University_Of_Greenwich_Coursework-)  
+- [2 ](#)
 
 ---
 
 ### 📚 Certifications
-- [Certification 1](#)  
-- [Certification 2](#)
-
+- [Google Cybersecurity Professional Certificate] WORKING ON
 ---
 
 ### 🤝 Connect with me:

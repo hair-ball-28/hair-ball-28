@@ -19,4 +19,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [![YouTube](https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=white)](https://youtube.com/yourchannel) 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/bryan-hernandez-upegui-05277a210
+[linkedin]: [www.linkedin.com/in/bryan-hernandez-upegui-05277a210](https://www.linkedin.com/in/bryan-upegui-05277a210/)

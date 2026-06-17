@@ -7,9 +7,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ###  👨‍💻 Cybersecurity Projects:
 - [JavaChatApp_](https://github.com/hair-ball-28/JavaChatApp_University_Of_Greenwich_Coursework-)  
 - [Journey planner for the London Underground](https://github.com/hair-ball-28/Journey-planner-for-the-London-Underground)
-
----
-
-### 🤝 Connect with me:
-
-[linkedin]: [www.linkedin.com/in/bryan-hernandez-upegui-05277a210](https://www.linkedin.com/in/bryan-upegui-05277a210/)
